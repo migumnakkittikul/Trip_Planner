@@ -1,0 +1,23 @@
+.UserPlanContainer{
+    width: 100%;
+    height: 50px;
+    /* border:1px solid purple; */
+    border-radius: 0px 0px 10px 10px;
+    border-bottom: 1px solid #29252542;
+    display: flex;
+}
+
+.UserPlanContainer:hover{
+    background-color: #E5E4E2;
+    cursor: pointer;
+}
+
+.ColValue{
+    width: 25%;
+    height: 100%;
+    /* border: 1px solid darkblue; */
+}
+
+.ArrowIcon{
+    margin: 10px 20px;
+}
